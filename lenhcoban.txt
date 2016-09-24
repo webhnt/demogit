@@ -1,0 +1,6 @@
+git clone : lấy dữ liệu từ respostories xuống local(máy tính cá nhân)
+git pull
+git commit -m ""
+git push origin master
+git add ."filetest.txt"
+git m "file or folder"
